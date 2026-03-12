@@ -1,0 +1,3 @@
+class FirestoreTopicDataSource {
+  // TODO: Implement
+}

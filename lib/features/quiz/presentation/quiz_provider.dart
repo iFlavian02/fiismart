@@ -1,0 +1,3 @@
+class QuizProvider {
+  // TODO: Implement
+}

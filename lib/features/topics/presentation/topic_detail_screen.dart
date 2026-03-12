@@ -1,0 +1,3 @@
+class TopicDetailScreen {
+  // TODO: Implement
+}

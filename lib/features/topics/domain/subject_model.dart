@@ -1,0 +1,3 @@
+class SubjectModel {
+  // TODO: Implement
+}

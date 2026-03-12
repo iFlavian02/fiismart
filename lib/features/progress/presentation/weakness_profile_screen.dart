@@ -1,0 +1,3 @@
+class WeaknessProfileScreen {
+  // TODO: Implement
+}

@@ -1,0 +1,3 @@
+class UploadRecordModel {
+  // TODO: Implement
+}

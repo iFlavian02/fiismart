@@ -1,0 +1,3 @@
+class StoragePaths {
+  // TODO: Implement
+}

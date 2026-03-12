@@ -1,0 +1,3 @@
+class UserModel {
+  // TODO: Implement
+}

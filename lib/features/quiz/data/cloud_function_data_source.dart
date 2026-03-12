@@ -1,0 +1,3 @@
+class CloudFunctionDataSource {
+  // TODO: Implement
+}

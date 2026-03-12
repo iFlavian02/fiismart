@@ -1,0 +1,3 @@
+class RouteNames {
+  // TODO: Implement
+}

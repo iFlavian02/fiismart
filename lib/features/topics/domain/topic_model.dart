@@ -1,0 +1,3 @@
+class TopicModel {
+  // TODO: Implement
+}

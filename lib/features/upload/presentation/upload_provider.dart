@@ -1,0 +1,3 @@
+class UploadProvider {
+  // TODO: Implement
+}

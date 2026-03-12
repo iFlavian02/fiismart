@@ -1,0 +1,3 @@
+class QuizRepository {
+  // TODO: Implement
+}

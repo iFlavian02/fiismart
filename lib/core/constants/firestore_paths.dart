@@ -1,0 +1,3 @@
+class FirestorePaths {
+  // TODO: Implement
+}

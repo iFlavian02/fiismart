@@ -1,0 +1,3 @@
+class UploadRepository {
+  // TODO: Implement
+}

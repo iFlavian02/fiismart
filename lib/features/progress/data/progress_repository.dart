@@ -1,0 +1,3 @@
+class ProgressRepository {
+  // TODO: Implement
+}

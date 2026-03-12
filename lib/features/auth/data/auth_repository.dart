@@ -1,0 +1,3 @@
+class AuthRepository {
+  // TODO: Implement
+}

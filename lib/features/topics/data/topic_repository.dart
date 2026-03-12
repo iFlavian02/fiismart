@@ -1,0 +1,3 @@
+class TopicRepository {
+  // TODO: Implement
+}

@@ -1,0 +1,3 @@
+class WeaknessModel {
+  // TODO: Implement
+}

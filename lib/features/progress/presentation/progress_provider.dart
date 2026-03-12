@@ -1,0 +1,3 @@
+class ProgressProvider {
+  // TODO: Implement
+}
