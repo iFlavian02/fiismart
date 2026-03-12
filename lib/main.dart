@@ -120,3 +120,10 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+MaterialApp.router(
+  title: 'FiiSmart',
+  theme: AppTheme.darkTheme,
+  themeMode: ThemeMode.dark, // Force dark mode as per UI
+  routerConfig: goRouter,
+)
